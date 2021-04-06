@@ -1,0 +1,64 @@
+body {
+    background-color: hotpink !important;
+}
+
+#container {
+    width: 500px;
+    height: 300px;
+    margin-top: 300px;
+    text-align: center;
+}
+
+#title{
+    color: #fff;
+
+}
+
+#sub-container{
+    width: 100%;
+    height: 300px;
+    background-color: #fff;
+    border: 5px solid deeppink;
+    border-radius: 20px;
+    //overflow: hidden;
+    //overflow-y: scroll;
+}
+
+.list-group-item{
+    border: none !important;
+    border-bottom: 1px solid #eee !important; 
+}
+
+#list-group{
+    padding-top: 20px;
+}
+#input-group{
+    margin-top: 10px;
+}
+
+#input-area{
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.badge-danger {
+    color: #fff;
+    background-color: #dc3545;
+}
+
+.badge {
+    text-align: center;
+}
+.badge-pill {
+    padding-right: .6em;
+    padding-left: .6em;
+    border-radius: 50rem !important;
+}
+
+#button-area{
+    border: none;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: indigo;
+    color: #fff;
+}
